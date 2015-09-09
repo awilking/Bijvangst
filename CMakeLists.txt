@@ -5,9 +5,9 @@ cmake_minimum_required(VERSION 2.8)
 project (Bijvangst C)
 
 #Version.
-set (VER_MAJOR 0)
-set (VER_MINOR 0)
-set (VER_MICRO 1)
+set (VER_BIJVANGST_MAJOR 0)
+set (VER_BIJVANGST_MINOR 0)
+set (VER_BIJVANGST_MICRO 1)
 
 #Log Level.
 set (LOG_LEVEL 1)
