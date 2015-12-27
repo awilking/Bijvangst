@@ -17,3 +17,5 @@ ipch/*
 *.sdf
 *.suo
 cscope.out
+Bijvangst.cfg
+log4crc
