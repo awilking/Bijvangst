@@ -16,6 +16,12 @@ if (UNIX)
 	configure_file (inc/version.h.in inc/version.h @only)
 endif( UNIX)
 
+if( UNIX)
+    configure_file( log4crc.in log4crc @ONLY)
+    configure_file( ${PROJECT_NAME}.cfg.in ${PROJECT_NAME}.cfg @ONLY)
+endif()
+
 subdirs( src)
 subdirs( UnitTest)
+
 

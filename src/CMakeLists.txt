@@ -1,4 +1,4 @@
-# wilkinghoff@sap.com
+# bommer@wilkinghoff.de
 cmake_minimum_required (VERSION 2.8)
 
 set (CMAKE_SKIP_PREPROCESSED_SOURCE_RULES treu)

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Bijvangst SYSTEM "">
+<Bjvangst xmlns:bijvangst="http://www.allasoft.de" Version="1.0.0">
+	<Configuration>
+		<Drive>/home/awilking/</Drive>
+		<Path>data/bijvangst/</Path>
+		<Directories>
+			<Config>config/</Config>
+			<Reference>reference/</Reference>
+			<System>system/</System>
+			<Logging>log/</Logging>
+			<Backup>backup/</Backup>
+		</Directories>
+		<Extension>.cfg</Extension>
+	</Configuration>
+</Bjvangst>
